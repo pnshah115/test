@@ -1,0 +1,38 @@
+body {
+    background-image: url("../images/gradient.jpg");
+}
+
+.felt{
+    background-image: url("../images/felt.jpg");
+    width: 500px;
+    height: 500px;
+    position: relative;
+    top: 25px;
+    margin: 0 auto;
+}
+
+.back{
+    position: absolute;
+    top: 50px;
+    left: 200px;
+}
+.king{
+    position: absolute;
+    top: 75px;
+    left: 200px;
+}
+.queen {
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}
+.jack {
+    position: absolute;
+    top: 125px;
+    left: 200px;
+}
+.ten {
+    position: absolute;
+    top: 150px;
+    left: 200px;
+}
